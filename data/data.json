@@ -1,0 +1,82 @@
+{
+  "church": {
+    "name": "Igreja Metodista Wesleyana",
+    "shortName": "IMW Jardim Primavera",
+    "motto": "Um lugar para pertencer, crescer e servir.",
+    "whatsapp": "5521999999999",
+    "email": "contato@imwjardimprimavera.org.br"
+  },
+  "social": {
+    "instagram": "https://instagram.com/imwjardimprimavera",
+    "youtube": "https://youtube.com/@imwjardimprimavera",
+    "facebook": "https://facebook.com/imwjardimprimavera"
+  },
+  "navigation": [
+    { "label": "Início", "href": "#inicio" },
+    { "label": "A Igreja", "items": ["Sobre nós", "Nossa história", "Onde estamos", "Equipe pastoral"] },
+    { "label": "Ministérios & Redes", "items": ["Start", "Move", "Kids", "Louvor"] },
+    { "label": "Cursos & Formações", "items": ["EFL", "Escola de Líderes"] },
+    { "label": "Eventos & Inscrições", "href": "#eventos" },
+    { "label": "GCEU", "href": "#gceu" },
+    { "label": "Conteúdos", "items": ["Informativos", "Galeria", "Pregações"] }
+  ],
+  "serviceTimes": [
+    { "day": "Domingo", "time": "09h e 19h", "label": "Cultos de celebração" },
+    { "day": "Quarta-feira", "time": "19h30", "label": "Culto de oração" }
+  ],
+  "heroSlides": [
+    {
+      "title": "A fé fica mais bonita quando é vivida em comunidade.",
+      "description": "Venha celebrar com a gente e descubra um lugar para chamar de casa.",
+      "image": "https://images.unsplash.com/photo-1519491050282-cf00c82424b4?auto=format&fit=crop&w=1800&q=85",
+      "imageAlt": "Comunidade reunida em um momento de celebração na igreja",
+      "primaryCta": { "label": "Assista ao culto ao vivo", "href": "#mensagens" },
+      "secondaryCta": { "label": "Conheça a igreja", "href": "#sobre" }
+    },
+    {
+      "title": "Você não precisa caminhar sozinho.",
+      "description": "Encontre um GCEU perto de você e cresça em relacionamentos que transformam.",
+      "image": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?auto=format&fit=crop&w=1800&q=85",
+      "imageAlt": "Amigos reunidos sorrindo em um encontro de comunidade",
+      "primaryCta": { "label": "Encontrar uma célula", "href": "#gceu" },
+      "secondaryCta": { "label": "Ver horários", "href": "#horarios" }
+    }
+  ],
+  "quickLinks": [
+    { "title": "Pedidos de oração", "description": "Compartilhe seu pedido com nossa equipe.", "icon": "heart", "href": "#oracao" },
+    { "title": "Transmissão", "description": "Cultos ao vivo e mensagens recentes.", "icon": "play", "href": "#mensagens" },
+    { "title": "Contribua", "description": "Faça parte do que Deus está fazendo.", "icon": "hand", "href": "#contribua" },
+    { "title": "Cursos", "description": "Aprenda, sirva e desenvolva seus dons.", "icon": "book", "href": "#eventos" }
+  ],
+  "messages": [
+    { "title": "A presença que transforma", "speaker": "Pr. Rafael Martins", "date": "15 set 2024", "duration": "42 min", "image": "https://images.unsplash.com/photo-1507692049790-de58290a4334?auto=format&fit=crop&w=800&q=80", "imageAlt": "Palco de uma igreja iluminado durante uma pregação", "href": "https://youtube.com" },
+    { "title": "Uma fé que permanece", "speaker": "Pra. Ana Beatriz", "date": "08 set 2024", "duration": "38 min", "image": "https://images.unsplash.com/photo-1478146896981-b80fe463b330?auto=format&fit=crop&w=800&q=80", "imageAlt": "Pessoas reunidas em culto com as mãos levantadas", "href": "https://youtube.com" },
+    { "title": "Chamados para servir", "speaker": "Pr. Rafael Martins", "date": "01 set 2024", "duration": "51 min", "image": "https://images.unsplash.com/photo-1438032005730-c779502df39b?auto=format&fit=crop&w=800&q=80", "imageAlt": "Interior de uma igreja preparado para uma celebração", "href": "https://youtube.com" }
+  ],
+  "events": [
+    { "title": "Conferência Casa", "date": "28 SET", "description": "Uma noite para celebrar a família e a presença de Deus.", "tag": "Comunidade" },
+    { "title": "Escola de Líderes", "date": "05 OUT", "description": "Inscrições abertas para a nova turma de formação.", "tag": "Formação" },
+    { "title": "Encontro de Jovens Move", "date": "12 OUT", "description": "Conexão, propósito e uma fé que se move.", "tag": "Juventude" }
+  ],
+  "giving": {
+    "bank": "Banco Itaú | Agência 1234 | Conta 56789-0",
+    "holder": "Igreja Metodista Wesleyana de Jardim Primavera",
+    "cnpj": "00.000.000/0001-00",
+    "pix": "00000000000000",
+    "qrValue": "00000000000000"
+  },
+  "locations": [
+    { "name": "Sede Jardim Primavera", "address": "Rua da Esperança, 120 — Jardim Primavera, RJ", "mapUrl": "https://maps.google.com" },
+    { "name": "Ponto de pregação Centro", "address": "Av. Central, 450 — Centro, RJ", "mapUrl": "https://maps.google.com" }
+  ],
+  "searchEntries": [
+    { "title": "A presença que transforma", "type": "Pregação", "description": "Mensagem com o Pr. Rafael Martins", "href": "#mensagens" },
+    { "title": "Uma fé que permanece", "type": "Pregação", "description": "Mensagem com a Pra. Ana Beatriz", "href": "#mensagens" },
+    { "title": "Chamados para servir", "type": "Pregação", "description": "Mensagem com o Pr. Rafael Martins", "href": "#mensagens" },
+    { "title": "Escola de Líderes", "type": "Curso", "description": "Formação para desenvolver seus dons", "href": "#eventos" },
+    { "title": "Conferência Casa", "type": "Evento", "description": "Uma noite para celebrar a família", "href": "#eventos" },
+    { "title": "GCEU Jardim Primavera", "type": "Célula", "description": "Pequenos grupos, grandes amizades", "href": "#gceu" },
+    { "title": "Sede Jardim Primavera", "type": "Endereço", "description": "Rua da Esperança, 120 — Jardim Primavera, RJ", "href": "#contato" },
+    { "title": "Ponto de pregação Centro", "type": "Endereço", "description": "Av. Central, 450 — Centro, RJ", "href": "#contato" }
+  ]
+}
